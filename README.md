@@ -18,9 +18,8 @@ Java Solutions Architect with 20+ years of enterprise engineering and architectu
 ---
 
 ### 🚀 Flagship Architecture Repositories
-
-- [Reactive Event-Driven Microservices](https://github.com/vijayagopalsb/reactive-event-driven-microservices) — Multi-module Java 21 platform with Spring WebFlux, R2DBC, Kafka event streaming, and an ELK telemetry pipeline.
 - [Auth Shield Service](https://github.com/vijayagopalsb/auth-shield-service) - Centralised OAuth2 / OpenID Connect authorization server with Spring Security 6, stateless JWT issuance, RBAC/ABAC enforcement, and resilient authentication pipelines.
+- [Reactive Event-Driven Microservices](https://github.com/vijayagopalsb/reactive-event-driven-microservices) — Multi-module Java 21 platform with Spring WebFlux, R2DBC, Kafka event streaming, and an ELK telemetry pipeline.
 - [The Lateral Isolation Tax](https://github.com/vijayagopalsb/isolation-tax) — Decision framework for peer-service boundaries with runnable Spring Boot demos and ArchUnit build-time enforcement.
 - [InjectionOnly Enforcer](https://github.com/vijayagopalsb/injection-only-enforcer) — Compile-time Java 17 annotation processor enforcing dependency-injection rules.
 - [Med-Noise-Cleanse](https://github.com/vijayagopalsb/Med-Noise-Cleanse) — Medical image denoising using TensorFlow DAE, designed strictly with Hexagonal Architecture.
